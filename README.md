@@ -15,3 +15,7 @@ This section will be used to show-how to deploy.
 ## How to contribute
 
 You will learn how to contribute to this project
+
+## Progress Bar
+
+How much you have learnt so far?
