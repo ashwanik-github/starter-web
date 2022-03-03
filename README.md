@@ -8,6 +8,10 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
+## Deployment
+
+This section will be used to show-how to deploy.
+
 ## How to contribute
 
 You will learn how to contribute to this project
