@@ -24,3 +24,7 @@ How much you have learnt so far?
 ## Rate the course
 
 Can you also rate the course on the udemy?
+
+### Just Footer
+Opensource @devopsgeeks.co.in
+
